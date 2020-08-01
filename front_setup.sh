@@ -1,3 +1,5 @@
+#!/bin/bash
+
 install_and_build_frontend() {
 
         cd /home/Java/
